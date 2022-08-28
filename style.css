@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(52, 243, 218, 0.877);
+}
+h1{
+    color: white;
+}
+h4{
+    color:white;
+}
+#family{
+    background-color:coral  ;
+     height: 70px;;
+     width: 800px;border-radius: 100px;
+     color:midnightblue ;
+     text-align: center;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+}
+#label{
+    color: white;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
